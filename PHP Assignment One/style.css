@@ -1,0 +1,55 @@
+/* style.css */
+/* Cute and simple CSS for the Plushie site */
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #fff0f5;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #ff69b4;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+h2 {
+    color: #d63384;
+}
+
+form {
+    background-color: #ffe4e1;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+input, textarea, select {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #d63384;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #d63384;
+}
+
+footer {
+    margin-top: 20px;
+    color: #888;
+}
